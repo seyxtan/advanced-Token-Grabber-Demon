@@ -8,3 +8,5 @@ The setup in main.py will take only 20 to 30 seconds.
 - Most reliable token grabber of 2026
 
 by seyxtan
+
+<img width="557" height="292" alt="image" src="https://github.com/user-attachments/assets/06b1f0bb-c247-46c6-b2a8-d34ca57ddb0f" />
