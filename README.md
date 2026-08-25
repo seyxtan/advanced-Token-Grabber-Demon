@@ -10,5 +10,5 @@ The setup in main.py will take only 20 to 30 seconds.
 by seyxtan
 
 <img width="557" height="292" alt="image" src="https://github.com/user-attachments/assets/06b1f0bb-c247-46c6-b2a8-d34ca57ddb0f" />
-
+------------------------------------------------------------------------------------------
 <img width="634" height="182" alt="image" src="https://github.com/user-attachments/assets/59b2d127-3f7c-44a8-b730-0f0d27fd1bf4" />
